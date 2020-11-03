@@ -317,8 +317,8 @@ alias update=\"apt-get update;apt-get upgrade\"" > /data/data/com.termux/files/u
 cd /$HOME
 cd termuxstyling
 echo Script made by
-toilet Dark
-toilet Warrior
+toilet Arnav
+toilet Thakur
 sleep 2
 mdv README.md
 cd $pdir
